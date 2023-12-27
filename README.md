@@ -12,3 +12,6 @@ Project (2048)
 6. If you wish to restart the game press 'r' in your keyboard.
 7. If you wish to quit the game press 'q' in your keyboard.
 
+### Features of the program:
+
+
