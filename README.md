@@ -46,6 +46,10 @@ Functions:
 game_state_helper() - This is a helper function for the game_state() and if the matrix is filled with numbers, then checks if any of the adjacent numbers are equal (left,right,up,down) and if it is same then the function returns True.  
 game_state() - This function checks if any of the number in the matrix equals to 2048 or if there is empty space in the matrix by checking for zero's, it also has the helper function to check if the adjacent elements are equal and returns the appropriate message depending on the scenario to the calling function.
 
+**merge_matrix.py:**  
+This program shifts the number in left, right, up or down to the end when they just have zero or if the two adjacent numbers are same they merge to become twice that number, the remaining cells  are filled with zero and the result is returned to the calling function.  
+Functions : merge_right(), merge_left(), merge_down(), merge_up()  
+
 
 
 
