@@ -34,7 +34,7 @@ This Program uses the turtle module to get the predefined inputs (Left, Right, U
 Functions:  
 controls() - uses the turtle.listen() and if any of the appropriate keys are pressed ('Up', 'Down', 'Left', 'Right', 'q', 'r'), calls the appropriate function for that key.  
 move_right() - This function shifts elements in the matrix to the right, updates the score. If the two cells have the same number, the numbers are merged. It then checks the status of the game, whether the player has won or lost or can he keep playing and the player can keep playing it calls the draw() to display the resultant matrix in the turtle window.  
-rigeriogherogherhg
+move_left() - This function shifts elements in the matrix to the left, updates the score. If the two cells have the same number, the numbers are merged. It then checks the status of the game, whether the player has won or lost or can he keep playing and the player can keep playing it calls the draw() to display the resultant matrix in the turtle window.	
 
 
 
