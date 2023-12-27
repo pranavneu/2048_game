@@ -26,8 +26,8 @@ Project (2048)
 
 ### Program design:  
 **main.py:**  
-Functions : board_size() - This function asks the user to enter the size of the board between 4 and 6. If any other values are entered, the function raises a ValueError.
-main() -  This is the main function for the entire program, it calls the initialising_matrix(), game_start(), draw_board() and controls()
+Functions : board_size() - This function asks the user to enter the size of the board between 4 and 6. If any other values are entered, the function raises a ValueError.  
+main() -  This is the main function for the entire program, it calls the initialising_matrix(), game_start(), draw_board() and controls()  
 
 **turtle_controls.py:**
 This Program uses the turtle module to get the predefined inputs (Left, Right, Up or Down) and call the relevant merge functions for that input and displays the matrix in the turtle window.	
