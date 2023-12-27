@@ -64,7 +64,7 @@ This program incorporates the UnitTesting module and checks whether all the func
 Class Name: Test_game  
 Methods: test_merge_right(), test_merge_left(), test_merge_down(), test_merge_up(), test_game_status(), test_matrix(), test_random_element(), test_reverse_matrix()  
 
-[Pranav Kanth Anbarasan](https://www.linkedin.com/in/pranav-kanth-anbarasan-b5b93818a/) Let's connect on LinkedIn!!
+[Pranav Kanth Anbarasan](https://www.linkedin.com/in/pranav-kanth-anbarasan-b5b93818a/)  Let's connect on LinkedIn!!
 
 
 
