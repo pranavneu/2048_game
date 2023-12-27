@@ -51,7 +51,7 @@ This program shifts the number in left, right, up or down to the end when they j
 Functions : merge_right(), merge_left(), merge_down(), merge_up()    
 Helper functions : reverse_matrix_helper() and transpose_matrix_helper()  
 
-**turtle_screen.py** 
+**turtle_screen.py**   
 This program is used to draw the 2048 board in the turtle module and updates the score accordingly in the turtle module. It also displays the rules in the turtle module. This program also holds the color palate which displays distinct color for each number.  
 Functions : color_palate(), draw_board(), rules(), reverse_list()  
 
