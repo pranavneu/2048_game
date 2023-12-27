@@ -40,6 +40,14 @@ move_up() - This function shifts elements in the matrix up, updates the score. I
 quit_game() - This function closes the turtle window and ends the program, if the letter 'q' is pressed.  
 reset_game() - This function resets the game and the score if the user presses the key 'r'.  
 
+**game_status.py:**  
+This program checks the status of the game and if any one of the numbers in matrix equals to 2048 it will print 'You won!!' or if you are not able to make any more moves and there is no space left,  it prints 'You lose' and ends the game.  
+Functions:  
+game_state_helper() - This is a helper function for the game_state() and if the matrix is filled with numbers, then checks if any of the adjacent numbers are equal (left,right,up,down) and if it is same then the function returns True.  
+game_state() - This function checks if any of the number in the matrix equals to 2048 or if there is empty space in the matrix by checking for zero's, it also has the helper function to check if the adjacent elements are equal and returns the appropriate message depending on the scenario to the calling function.
+
+
+
 
 
 
