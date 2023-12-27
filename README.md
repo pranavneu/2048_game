@@ -24,4 +24,8 @@ Project (2048)
 9. The program will not crash when the user enters an invalid value for the size of the board, instead the program will raise a ValueError.
 10. The cells will be highlighted in different colour, when they merge.
 
+### Program design:  
+**main.py:**
+
+
 
