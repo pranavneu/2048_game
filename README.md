@@ -3,7 +3,7 @@ Pranav Kanth Anbarasan
 CS5001, Spring 2023  
 Project (2048)  
 
-###Instructions on how to run the program:
+### Instructions on how to run the program:
 1. Unzip the contents of the submitted file.
 2. The file consists of 7 python programs (main.py, game_status.py, matrix.py, merge_matrix.py, turtle_controls.py, turtle_screen.py, test.py) and one read_me text file.
 3. In order to open the game, run the main.py file in IDLE.
