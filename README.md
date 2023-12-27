@@ -59,6 +59,11 @@ Functions : color_palate(), draw_board(), rules(), reverse_list()
 This program creates a matrix filled with 0's for the input size the user has entered. It then inputs two random numbers (2,4) on random places at the start of the game and then input one random number (2,4) after each move the player made.  
 Functions: initialising_matrix(), game_start()  
 
+**test.py:**  
+This program incorporates the UnitTesting module and checks whether all the functions returns value that is expected, we then compare the outcomes with assert statements.  
+Class Name: Test_game  
+Methods: test_merge_right(), test_merge_left(), test_merge_down(), test_merge_up(), test_game_status(), test_matrix(), test_random_element(), test_reverse_matrix()  
+
 
 
 
