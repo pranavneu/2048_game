@@ -55,6 +55,11 @@ Helper functions : reverse_matrix_helper() and transpose_matrix_helper()
 This program is used to draw the 2048 board in the turtle module and updates the score accordingly in the turtle module. It also displays the rules in the turtle module. This program also holds the color palate which displays distinct color for each number.  
 Functions : color_palate(), draw_board(), rules(), reverse_list()  
 
+**matrix.py:**  
+This program creates a matrix filled with 0's for the input size the user has entered. It then inputs two random numbers (2,4) on random places at the start of the game and then input one random number (2,4) after each move the player made.  
+Functions: initialising_matrix(), game_start()  
+
+
 
 
 
