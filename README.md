@@ -48,8 +48,8 @@ game_state() - This function checks if any of the number in the matrix equals to
 
 **merge_matrix.py:**  
 This program shifts the number in left, right, up or down to the end when they just have zero or if the two adjacent numbers are same they merge to become twice that number, the remaining cells  are filled with zero and the result is returned to the calling function.  
-Functions : merge_right(), merge_left(), merge_down(), merge_up()  
-
+Functions : merge_right(), merge_left(), merge_down(), merge_up()    
+Helper functions : reverse_matrix_helper() and transpose_matrix_helper()  
 
 
 
